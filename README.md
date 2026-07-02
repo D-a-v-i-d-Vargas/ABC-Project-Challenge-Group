@@ -18,7 +18,7 @@ Este repositorio contiene el desarrollo del proyecto **"ABC"**, un sitio web int
 ---
 
 ## 👥 Colaboradores
-Desarrollado de manera conjunta por los miembros del departamento para asegurar el despliegue óptimo antes de la fecha límite[cite: 8, 10, 38]:
+Desarrollado de manera conjunta por los miembros del departamento para asegurar el despliegue óptimo antes de la fecha límite (03/07/26):
 
 * **Daniel M** — [@Daniel-Mon-Fig](https://github.com/Daniel-Mon-Fig) (Collaborator)
 * **Evelin** — [@Evegr12](https://github.com/Evegr12) (Collaborator)

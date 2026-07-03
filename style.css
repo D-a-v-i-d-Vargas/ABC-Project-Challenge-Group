@@ -1,5 +1,21 @@
 html {
     height: 100%;
     width: 100%;
-  }
-  
+}
+
+body {
+    background-color: rgb(240, 242, 245);
+}
+
+
+h3 {
+    color: rgb(34, 139, 94);
+}
+
+.blue {
+    color: rgb(26, 94, 184);
+}
+
+.red {
+    color: rgb(186, 45, 61);
+}

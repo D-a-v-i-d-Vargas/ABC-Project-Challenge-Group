@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&display=swap');
+
 html {
     height: 100%;
     width: 100%;
@@ -5,6 +7,9 @@ html {
 
 body {
     background-color: rgb(240, 242, 245);
+    font-family:'Fuzzy Bubbles', sans-serif;
+    font-weight: 800;
+    font-style: normal;
 }
 
 
@@ -19,3 +24,8 @@ h3 {
 .red {
     color: rgb(186, 45, 61);
 }
+
+h5 {
+  cursor: pointer;
+}
+
